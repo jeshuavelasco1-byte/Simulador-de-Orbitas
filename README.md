@@ -19,4 +19,4 @@ Con Δt = 0.001 años y 5 años simulados (≈ 8 órbitas):
 - **Verlet:** oscila con el periodo orbital y se mantiene por debajo de ≈ Y.
 - Error final de energía, Euler:  4.92e-01
 - Error final de energía, Verlet: 1.66e-08
-**Conclusión:** Una Orbita simulada con Euler al ser un metodo de primer orden se abre, ya que la energia no se mantiene constante(crece) mientras que en una orbita simulada con verlet al ser de segundo orden la energia se mantiene casi constante, por eso no se abre.
+- **Conclusión:** Una Orbita simulada con Euler al ser un metodo de primer orden se abre, ya que la energia no se mantiene constante(crece), mientras que en una orbita simulada con verlet al ser de segundo orden la energia se mantiene casi constante, por eso no se abre.
