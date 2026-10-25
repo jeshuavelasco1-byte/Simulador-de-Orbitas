@@ -1,4 +1,4 @@
-## Euler vs. Verlet
+## Euler vs Verlet
 
 Una órbita se obtiene resolviendo numéricamente
 $\ddot{\mathbf{r}} = -\dfrac{GM}{|\mathbf{r}|^3}\,\mathbf{r}$
