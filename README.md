@@ -1,7 +1,7 @@
 ## Euler vs. Verlet
 
 Una órbita se obtiene resolviendo numéricamente
-$\ddot{\mathbf r} = -GM\,\mathbf r / |\mathbf r|^3$.
+$\ddot{\mathbf{r}} = -\dfrac{GM}{|\mathbf{r}|^3}\,\mathbf{r}$
 Comparo dos métodos de integración: 
 
 
